@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://heroku.com/deploy?template=https://github.com/FlameInDark-Team/VIDOE">
+    <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200" />
+  </a>
+
 VIDOE – Video Streaming Website HTML Template
 
 VIDOE – Video Streaming Website HTML Template Its a great business though. We all people love to share photos, videos, sounds in facebook, twitter, Youtube, Dailymotion or other media sharing sites. Among of us, many people want to make our own media sharing site like Youtube, Dailymotion where we can share photos or videos. VIDOE – Video Streaming Website HTML Template will help you to do that! You can setup your own website and stream your own media using our Template. It has a user interface with nice UX, with multiple homepage version. Check all the Pages! Buy Template On ThemeForest
