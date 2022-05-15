@@ -1,0 +1,7 @@
+{
+    "name": "VIDOE",
+    "description": "An streaming website",
+    "repository": "https://github.com/FlameInDark-Team/VIDOE",
+    "logo": "https://yt3.ggpht.com/uPNzXCLebKevveSrMph1nrRETlxhYuCICyB3Poqta-dIG4b50wRPPOpKWvjN4tU49iSfZDgM=s88-c-k-c0x00ffffff-no-rj",
+    "keywords": ["node", "express", "static"]
+  }
